@@ -1,1 +1,2 @@
-# Digital_II_Final_Project
+# Proyecto final para la materia de Digital II
+Universidad Nacional de Colombia
